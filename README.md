@@ -2,7 +2,6 @@
 
 # 👨🏻‍💻 cxctxs_jxck
 > [My Website](https://lostsleepy.github.io/pagina-web-cv/)
-> 
 
 ## 💻 Professional Experience Developing
 * Still nothing :(
@@ -28,6 +27,13 @@
             <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LostSleepy&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="cxctxs_jxck's Language stats" />
             </a>
         </td>
+                </td>
     </tr>
+    <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSleepy&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&amp;theme=dark" alt="">
+        </td>
+   </tr>
 </table>
 </div>
