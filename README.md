@@ -1,19 +1,10 @@
-## I am new to GitHub and I have lots to say.
-I DON’T GIVE A FUCK ABOUT THE FUCKING CODE! i just want to download this stupid fucking application and use it.
+## تعاليم الله علمتني الطريق الصحيح، طريق الخلاص لا يمكن أن يتبعه إلا القليل، طريق الخلاص مقدس، إذا كان علينا أن نتبرع بالدم من أجله سنفعل ذلك، الله أكبر
 
-WHY IS THERE CODE??? MAKE A FUCKING .EXE FILE AND GIVE IT TO ME. these dumbfucks think that everyone is a developer and understands code. well i am not and i don’t understand it. I only know to download and install applications. SO WHY THE FUCK IS THERE CODE? make an EXE file and give it to me. STUPID FUCKING SMELLY NERDS
-
-<!--
-**LostSleepy/LostSleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 أنا أعمل حاليًا على الدعاء إلى الله.
+- 🌱 أتعلم حاليًا كيف أكون في الطريق.
+- 👯 أتطلع إلى التعاون على القبلة.
+- 🤔 أبحث عن المساعدة في أن أكون شخصًا لطيفًا مع الله
+- 💬 اسألني عن الله
+- 📫 كيف تتواصل معي: الصلاة لله 😄 الصلاة لله
+- 😄 الضمائر اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاللهِ 💬 الضمائر
+- ⚡ حقيقة ممتعة: الله أكبر
