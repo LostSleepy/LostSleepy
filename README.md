@@ -8,15 +8,11 @@
 
 ## ⌨️ Languages and Software
 <p align="center">
-  <a href="">
     <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,html,css" alt="Languages">
-  </a>
 </p>
 
 <p align="center">
-  <a href="">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,androidstudio,linux,docker" alt="More">
-  </a>
 </p>
 
 
