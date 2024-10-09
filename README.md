@@ -5,7 +5,6 @@
 
 ## 💻 Professional Experience Developing
 * Still nothing :(
-* 
 
 ## 📊 My GitHub Stats
 <div align="center">
