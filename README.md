@@ -7,9 +7,18 @@
 * Still nothing :(
 
 ## ⌨️ Languages and Software
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,py,js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,html,css" alt="Languages">
+  </a>
+</p>
 
-[![More](https://skillicons.dev/icons?i=eclipse,vscode,github,androidstudio,linux,docker)](https://skillicons.dev)
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,github,androidstudio,linux,docker" alt="More">
+  </a>
+</p>
+
 
 ## 📊 My GitHub Stats
 <div align="center">
