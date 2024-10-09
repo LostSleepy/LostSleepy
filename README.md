@@ -6,6 +6,11 @@
 ## 💻 Professional Experience Developing
 * Still nothing :(
 
+## ⌨️ Languages and Software
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,py,js,html,css)](https://skillicons.dev)
+
+[![More](https://skillicons.dev/icons?i=eclipse,vscode,github,androidstudio,linux,docker)](https://skillicons.dev)
+
 ## 📊 My GitHub Stats
 <div align="center">
     <table>
@@ -37,3 +42,20 @@
         </tr>
     </table>
 </div>
+
+## 🏆 GitHub Thropies:
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LostSleepy)](https://github.com/LostSleepy/github-profile-trophy)
+
+<br>
+
+## 👋 Know more about me
+
+<p align="center">
+  
+  <a href="https://x.com/cxctxs_jxck">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  
+</p>
