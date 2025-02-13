@@ -42,9 +42,6 @@
             <td>
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostSleepy&theme=monokai" display=block width=100% height=auto alt="1" />
             </td>
-            <td>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalkumari23&amp;theme=dark" alt="">
-            </td>
         </tr>
     </table>
 </div>
