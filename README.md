@@ -18,9 +18,6 @@
 **Unity Developer Junior** · *Fundación MEDAC* · Mar 2025 – Jun 2025 · Remoto
 > Desarrollo de un simulador 3D interactivo en Unity. Programación de mecánicas y lógica de negocio en C#, trabajo en equipo bajo metodologías ágiles y control de versiones con PlasticSCM.
 
-**Técnico Informático** · *Iglesia San Antonio de Padua* · 2023 – 2024 · Sevilla
-> Gestión y optimización de infraestructura IT. Despliegue de software, mantenimiento preventivo de sistemas Windows 10/11 y soporte técnico integral.
-
 **Técnico de Soporte (Prácticas)** · *DIGI ALCOSA* · 2022 · Sevilla
 > Reparación de hardware, configuración de sistemas operativos y resolución de incidencias técnicas en entornos de cliente final.
 
