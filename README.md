@@ -20,8 +20,7 @@
 <tr>
 <td width="70%">
 
-**Unity Developer Junior** · *Fundación MEDAC*  
-`Mar 2025 – Jun 2025 · Remoto`
+**Unity Developer Junior** · *Fundación MEDAC* · `Mar 2025 – Jun 2025 · Remoto`
 
 > Desarrollo de un simulador 3D interactivo en Unity. Programación de mecánicas y lógica de negocio en C#, trabajo en equipo bajo metodologías ágiles y control de versiones con PlasticSCM.
 
@@ -34,7 +33,7 @@
 <tr>
 <td>
 
-**Técnico de Soporte (Prácticas)** · *DIGI ALCOSA* · `2022 · Sevilla`
+**Técnico de Soporte (Prácticas)** · *DIGI ALCOSA* · `Sep 2022 - Oct 2022 · Presencial`
 
 > Reparación de hardware, configuración de sistemas operativos y resolución de incidencias técnicas en entornos de cliente final.
 
