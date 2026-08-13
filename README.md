@@ -22,6 +22,8 @@
   <a href="https://lostsleepy.github.io/pagina-web-cv/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/pedrobarrantevazquez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/cxctxs_jxck"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.reddit.com/user/Lost_Sleepy/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://www.instagram.com/cxctxs_jxck/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:pedrobarrantevazquez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -66,22 +68,23 @@ Fuera del trabajo: desarrollo móvil con **Kotlin + Android Studio**, algún pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LostSleepy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff" alt="GitHub Stats" width="65%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostSleepy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff" alt="Top Languages" width="55%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LostSleepy&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&radius=16&height=170" width="92%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/LostSleepy?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=6c63ff&cacheSeconds=3600" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/LostSleepy?style=for-the-badge&logo=github&logoColor=white&label=Estrellas&color=6c63ff&cacheSeconds=3600" alt="Stars"/>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=LostSleepy&color=6c63ff&style=for-the-badge&label=Visitas" alt="Profile views"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LostSleepy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff" alt="GitHub Stats" width="65%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostSleepy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff" alt="Top Languages" width="30%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LostSleepy/LostSleepy/output/github-snake-dark.svg">
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/LostSleepy/LostSleepy/output/github-snake.svg" width="100%"/>
+</picture>
 
 <hr/>
 
@@ -200,11 +203,11 @@ Wiki fan-made de *Jujutsu Kaisen* con 50+ fichas por personaje, galerías multim
   </td>
   <td width="50%" valign="top">
 
-**🏀 [AppBaloncesto](https://github.com/LostSleepy/AppBaloncesto)**
+**🚧 En el horno...**
 
-App de puntuación de partidos de baloncesto — proyecto DAM (módulo DAMAndroid).
+Algo nuevo se está cociendo 🔥 — apps móviles, automatización y más proyectos por venir.
 
-`Java` `Android`
+`Kotlin` `Compose` `Python`
 
   </td>
 </tr>
