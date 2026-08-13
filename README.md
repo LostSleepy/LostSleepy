@@ -76,9 +76,7 @@ Fuera del trabajo: desarrollo móvil con **Kotlin + Android Studio**, algún pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LostSleepy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=ffffff" alt="GitHub Stats" width="65%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostSleepy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=ffffff" alt="Top Languages" width="30%"/>
+  <img src="https://raw.githubusercontent.com/LostSleepy/LostSleepy/main/metrics.svg" alt="GitHub Metrics" width="80%"/>
 </p>
 
 <picture>
